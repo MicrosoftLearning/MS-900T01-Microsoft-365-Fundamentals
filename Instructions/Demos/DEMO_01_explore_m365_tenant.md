@@ -37,8 +37,8 @@ In this demo, you will explore various features of your Microsoft 365 tenant. Yo
 3. In the **Teams admin center,** the dashboard shows cards for organization information, deployment status, recent activity, user searches, helpful links, and more.
 4. Use the left navigation menu to manage settings for **Teams, Users, Meetings, Locations,** and more.
 5. Under **Users,** administrators can configure settings for **Guest access** and **External access.**
-  - **External access,** formerly known as **federation,** lets Teams users communicate with users who are outside of your organization.
-  -**Guest access** lets individuals outsie your organization access teams and channels. 
+    - **External access,** formerly known as **federation,** lets Teams users communicate with users who are outside of your organization.
+    - **Guest access** lets individuals outsie your organization access teams and channels. 
  
 ## Review
 In this demo you viewed the different features and ways to manage your Microsoft 365 tenant by exploring the Microsoft 365 admin center, Azure Active Directory admin center and Teams admin center. 

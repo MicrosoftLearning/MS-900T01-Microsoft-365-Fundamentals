@@ -13,7 +13,7 @@ This demo maps to the following Learn content:
 
 ## Demo scenario
 
-In this demo, you will explore various features of your Microsoft 365 tenant. You will view the Microsoft 365 admin center, Azure Active Directory admin center and Teams admin center. .
+In this demo, you will explore various features of your Microsoft 365 tenant. You will view the Microsoft 365 admin center, Azure Active Directory admin center and Teams admin center.
 
 ### Microsoft 365 admin center
 1. Open a browser and in the address bar enter **admin.microsoft.com**. Sign in with your admin credentials. 

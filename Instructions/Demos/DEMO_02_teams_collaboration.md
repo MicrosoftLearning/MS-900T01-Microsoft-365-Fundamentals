@@ -29,7 +29,7 @@ In this demo you will show Microsoft Teams, the hub for team collaboration in Mi
 12. Notice your team is created and displayed in your list of teams on left. 
 13.	Select the **ellipsis** icon on the right of your team to view ways to manage your team. A menu of options opens. _(**Talking points:** As the team owner, you have a number of options for managing a team you create. You can manage the team’s settings, add channels and members, leave the team, edit the team, get a link to the team, manage tags, and even delete the team.)_
 
-###Create a channel
+### Create a channel
 1. Select **Add channel** and a dialogue box opens. _(Talking points: Each team is made up of “channels.” The default channel for team-wide discussions is the General channel, but you can create other channels dedicated to specific topics, departments, projects.)_
 2. The dialogue box asks you to fill out some information on your channel. Give your channel a name by entering a name in the **Channel name** textbox, for example enter **Digital Marketing Strategy.** Let people know what the channel is all about by entering a description in the **Description** textbox, but it is not required. Select the **Privacy** textbox to view the three privacy options: Standard, Private, or Shared. Leave the Privacy defaulted to **Standard** so everyone on the team can access the channel. You also have the option to **Automatically show this channel in everyone’s channel list,** select this checkbox. When you are finished select **Add** and the dialogue box closes. 
 3. Notice the channel is available under the **General** channel. _(**Talking points:** Channels are where the work actually gets done, where files are shared, apps are added and where conversations happen.)_

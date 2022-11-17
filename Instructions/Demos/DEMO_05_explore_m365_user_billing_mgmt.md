@@ -26,13 +26,13 @@ In this demo, you will show user and billing management features in the Microsof
 #### Add a user
 1. On the top left of the list select **Add a user.**
 2. A window pane expands from the right. Enter a **name** and other information. 
-- Example: Enter _**Carl**_ in the **First name** textbox and _**Johnson**_ in the **Last** name textbox. Select the **Display name** textbox and Carl Johnson should auto populate, if not enter _**Carl Johnson**_. Enter _**CarlJ**_ in the **Username** textbox. 
+    - Example: Enter _**Carl**_ in the **First name** textbox and _**Johnson**_ in the **Last** name textbox. Select the **Display name** textbox and Carl Johnson should auto populate, if not enter _**Carl Johnson**_. Enter _**CarlJ**_ in the **Username** textbox. 
 3. Select **Next.** 
 4. Notice **Assign user a product license** is auto selected. Select the **Microsoft 365** license _**(Example: Microsoft 365 E5 Developer).**_ Notice the number of licenses available decreases. 
 5. Select **Next.** 
 6. Select **Roles** to expand. Notice **User (no admin center access)** is auto selected. View the different administrator roles that a user can be assigned. 
 7. Select **Profile info** to expand. Enter profile information about the user. 
-- Example: Enter _**Business Analyst**_ in the **Job title** textbox and **IT** in the **Department** textbox.
+    - Example: Enter _**Business Analyst**_ in the **Job title** textbox and **IT** in the **Department** textbox.
 8. Select **Next.**
 9. Review the user information and select **Finish adding.** 
 10.	Once the new user _**(example: Carl Johnson)**_ has been added to active users, select **Close.** 
@@ -50,7 +50,7 @@ In this demo, you will show user and billing management features in the Microsof
 3. Users that are assigned a license to that subscription display. View your newly added user in the list _**(example: Carl Johnson).**_ 
 4. To add a license to a user who does not currently have a license select **Assign licenses** at the top left of the list. 
 5. A window pane will expand from the right. Search for the user that you would like to add a license to by entering a **name** or **email address** in the **search bar** or skip this step by selecting the **X** in the top right corner.
-- Once you find the user you would like select **Assign,** then select **Send email** to help the new user get started. Close the window by selecting the **X** in the top right corner. Notice the newly assigned user in the list and the available licenses decreases.
+    - Once you find the user you would like select **Assign,** then select **Send email** to help the new user get started. Close the window by selecting the **X** in the top right corner. Notice the newly assigned user in the list and the available licenses decreases.
 
 #### View bills and add payment methods
 1. In the left navigation menu under **"Billing"** select **Bills & payments** to view invoices, payment methods and billing profiles. _(**Note:** You are most likely not going to see any information here if this is a free trial environment and no payment is being made.)_

@@ -1,7 +1,7 @@
 ---
-Demo:
-    Title: 'Explore Microsoft Viva Insights and Viva Learning'
-    Learning Path/Module/Unit: 'Learning Path: Describe Microsoft 365 apps and services; Module 3: Describe collaboration solutions of Microsoft 365; Unit 4: Describe the Microsoft Viva apps'
+demo:
+    title: 'Demo: Explore Microsoft Viva Insights and Viva Learning'
+    module: 'Module 3: Describe collaboration solutions of Microsoft 365'
 ---
 
 # Demo: Explore Microsoft Viva Insights and Viva Learning

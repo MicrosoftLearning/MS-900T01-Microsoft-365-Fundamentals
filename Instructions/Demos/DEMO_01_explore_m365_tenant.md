@@ -1,7 +1,7 @@
 ---
-Demo:
-    Title: 'Explore Microsoft 365 tenant'
-    Learning Path/Module/Unit: 'Learning Path: Describe Microsoft 365 apps and services; Module 1: What is Microsoft 365?; Unit 5: Explore Microsoft 365 tenant'
+demo:
+    title: 'Demo: Explore Microsoft 365 tenant'
+    module: 'Module 1: What is Microsoft 365?'
 ---
 
 # Demo: Explore Microsoft 365 tenant

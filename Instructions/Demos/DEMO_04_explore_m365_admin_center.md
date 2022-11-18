@@ -1,6 +1,6 @@
 ---
 demo:
-   title: 'Explore the Microsoft 365 admin center'
+   title: 'Demo: Explore the Microsoft 365 admin center'
    module: 'Module 5: Describe analytics capabilities of Microsoft 365'
 ---
 

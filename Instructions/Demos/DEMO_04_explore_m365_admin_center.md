@@ -1,7 +1,7 @@
 ---
 demo:
    title: 'Demo: Explore the Microsoft 365 admin center'
-   module: 'Module 5: Describe analytics capabilities of Microsoft 365'
+   learningPath-Module-Unit: 'Learning Path: Describe Microsoft 365 apps and services; Module 5: Describe analytics capabilities of Microsoft 365'
 ---
 
 # Demo: Explore the Microsoft 365 admin center

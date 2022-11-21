@@ -1,7 +1,7 @@
 ---
 demo:
     title: 'Demo: Team collaboration in Microsoft Teams'
-    module: 'Module 3: Describe collaboration solutions of Microsoft 365'
+    learningPath-Module-Unit: 'Learning Path: Describe Microsoft 365 apps and services; Module 3: Describe collaboration solutions of Microsoft 365; Unit 3: Describe how Microsoft Teams promotes collaboration and enhances teamwork'
 ---
 
 # Demo: Team collaboration in Microsoft Teams

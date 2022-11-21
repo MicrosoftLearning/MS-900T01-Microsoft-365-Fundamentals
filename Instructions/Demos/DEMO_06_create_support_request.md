@@ -1,7 +1,7 @@
 ---
 demo:
     title: 'Demo: Create a support request in the Microsoft 365 admin center'
-    module: 'Module 2: Describe support offerings for Microsoft 365 services'
+    learningPath-Module-Unit: 'Learning Path: Describe Microsoft 365 pricing, licensing, and support; Module 2: Describe support offerings for Microsoft 365 services; Unit 2: Explore support options for Microsoft 365 services'
 ---
 
 # Demo: Create a support request in the Microsoft 365 admin center

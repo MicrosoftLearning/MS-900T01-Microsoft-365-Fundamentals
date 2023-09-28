@@ -18,9 +18,9 @@ In this demo you will show how to create a support request through the Microsoft
 1. Open a browser and in the address bar enter **admin.microsoft.com.** Sign in with your admin credentials. 
 2. In the left navigation menu, select **Show all** to expand the rest of the options.
 3. Select **Support** to expand the support options.
-4. Select **New service request.**
-5. On the right, a window pane will open where you can enter a support question and view the results. Enter a question or problem in the search bar and select the **arrow** icon on the right to search. 
-6. If the recommended instructions or articles don’t answer your questions, select the **headset** icon at the top of the window or select **Contact support** at the bottom to contact technical support.
+4. Select **Help & Support.**
+5. On the right, a window pane will open where you can enter a support question or problem and view the results. Enter a question or problem in the search bar and select the **arrow** icon on the right to search. 
+6. If the recommended instructions or articles don’t answer your questions, select the **headset** icon at the top of the support window or select the blue **Contact support** button at the bottom to contact technical support.
 7. Fill in the required information like **Title, Description, Preferred contact method,** etc.
 8. Select **Contact me** and a support agent will contact you.
 

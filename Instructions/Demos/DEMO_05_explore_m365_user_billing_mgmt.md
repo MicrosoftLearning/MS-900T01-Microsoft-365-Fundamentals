@@ -1,6 +1,6 @@
 ---
 demo:
-    title: 'Demo: Explore User and billing management in the Microsoft 365 admin center'
+    title: 'Demo: Explore user and billing management in the Microsoft 365 admin center'
     learningPath-Module-Unit: 'Learning Path: Describe Microsoft 365 pricing, licensing, and support; Module 1: Describe Microsoft 365 pricing, licensing, and billing options'
 ---
 

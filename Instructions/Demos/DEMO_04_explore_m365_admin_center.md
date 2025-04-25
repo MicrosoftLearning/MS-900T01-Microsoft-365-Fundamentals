@@ -8,7 +8,7 @@ demo:
 
 This demo maps to the following Learn content:
 - Learning Path: Describe Microsoft 365 apps and services
-- Module: Describe analytics capabilities of Microsoft 365
+- Module: Describe the analytics and administrative capabilities available in Microsoft 365
 
 ## Demo scenario
 In this demo you will show the features of the Microsoft 365 admin center. You will walk through how to manage your dashboard, view the variety of admin tasks, reports, and other admin centers available.

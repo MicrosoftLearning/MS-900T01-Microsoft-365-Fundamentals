@@ -9,7 +9,6 @@ demo:
 This demo maps to the following Learn content:
 - Learning Path: Describe Microsoft 365 apps and services
 - Module: What is Microsoft 365?
-- Unit: Explore Microsoft 365 tenant
 
 ## Demo scenario
 
